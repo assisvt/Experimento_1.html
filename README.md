@@ -1,1 +1,1 @@
-# Experimento base de um site com HTML + CSS
+# Experimento 'base' de um site com HTML + CSS
